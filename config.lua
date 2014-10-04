@@ -7,7 +7,6 @@ application =
 		scale = "letterBox",
         xAlign = "center",
         yAlign = "center",
-		--fps = 30,
 		
 		
         imageSuffix = {
@@ -16,19 +15,4 @@ application =
 		},
 		
 	},
-
-    --[[
-    -- Push notifications
-
-    notification =
-    {
-        iphone =
-        {
-            types =
-            {
-                "badge", "sound", "alert", "newsstand"
-            }
-        }
-    }
-    --]]    
 }
