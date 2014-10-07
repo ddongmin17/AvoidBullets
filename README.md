@@ -1,6 +1,6 @@
 AvoidBullets
 ============
-Two-week project done in 2013.
+Two-weeks project done in 2013.
 
 Android game that allows users to avoid floating obstacles/bullets.
 
